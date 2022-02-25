@@ -1,0 +1,19 @@
+{
+  "name": "pubdraw",
+  "version": "1.0.0",
+  "description": "public-drawing-to-stream",
+  "main": "pubdraw.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ronboprime/bigocodes"
+  },
+  "keywords": [
+    "pubdraw"
+  ],
+  "author": "ronboprime",
+  "license": "ISC"
+}
